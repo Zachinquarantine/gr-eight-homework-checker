@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
+<style>
+h1 {
+  color: black;
+  font-family: roboto mono;
+  font-size: 200%;
+}
+p {
+  color: black;
+  font-family: roboto mono;
+  font-size: 100%
+}
+h1 {
+ text-align:center
+}
+p {
+ text-align:center
+}
+</style>
+</style>
+</head>
+<body>
+
+<h1>Grade 8 Homework Checker</h1>
+<p>Today's homework:</p>
+
+</body>
+</html>
